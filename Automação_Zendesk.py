@@ -4,7 +4,7 @@ import time
 
 # Configurações do Zendesk
 SUBDOMINIO = "*************"
-EMAIL = "sysapi@linktelwifi.com/token"
+EMAIL = "sysapi@localhost.com/token"
 TOKEN = "****************************************"
 HEADERS = {"Content-Type": "application/json"}
 
